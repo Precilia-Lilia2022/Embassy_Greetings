@@ -59,7 +59,7 @@ html, body {
 
 /* FRONT COVER */
 .card-front {
-  background: linear-gradient(135deg, #ff758c, #ff7eb3);
+  background: linear-gradient(135deg, #fd6a83, #ff5da1);
   color: white;
   transform-origin: left center;
   transition: transform 1s ease;
@@ -91,7 +91,7 @@ html, body {
 }
 
 .card-inside h2 {
-  color: #ff5e78;
+  color: #ed304f;
   margin-bottom: 10px;
 }
 
